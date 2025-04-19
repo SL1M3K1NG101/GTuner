@@ -6,7 +6,7 @@ This is a simple homemade guitar tuner anyone can make, taking the input from an
 System still needs to be wired up irl for testing.
 
 ## Bill of Materials:
-Bill of Materials
+[Bill of Materials](https://github.com/SL1M3K1NG101/GTuner/blob/main/Bill%20of%20Materials)
 ## Casing for Parts:
 
 ## Build Instructions:
