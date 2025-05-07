@@ -21,7 +21,8 @@ Second is wiring the On/Off switch and the Audio jack into the casing of the box
   6. Ideally the M-Type power plug for your Arduino will have a red and black wire but if not solder them on.
 
 The imaging of the wiring of the amplifying and offest board.
-https://github.com/SL1M3K1NG101/GTuner/blob/main/OffestWiring.jpg
+[Wiring Diagram](https://github.com/SL1M3K1NG101/GTuner/blob/main/OffestWiring.jpg)
+
 Soldering the amplifier
 
  7. Solder your TL082 onto the larger gridstyle board
@@ -81,8 +82,6 @@ Close up the system and you're done with the wiring!
 
 Next you will want to put the coding into the arduino uno system, below is two provided coding, the first being the original standard guitar tuner, then second my modified code to make it compatable with a bass guitar. 
 
- Standard Guitar Tuning
-https://github.com/SL1M3K1NG101/GTuner/blob/main/Coding%20For%20Arduino
+[Standard Tuning](https://github.com/SL1M3K1NG101/GTuner/blob/main/Coding%20For%20Arduino)
 
- Bass Coding
-https://github.com/SL1M3K1NG101/GTuner/blob/main/Bass%20Chages
+[Bass Tuning](https://github.com/SL1M3K1NG101/GTuner/blob/main/Bass%20Chages)
