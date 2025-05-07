@@ -75,4 +75,14 @@ Connecting Light board onto Arduino
 
   22. Then connect the ground wrie from the light board onto the ground of the aruduino.
 
-Close up the system and you're done!
+Close up the system and you're done with the wiring!
+
+# Coding
+
+Next you will want to put the coding into the arduino uno system, below is two provided coding, the first being the original standard guitar tuner, then second my modified code to make it compatable with a bass guitar. 
+
+ Standard Guitar Tuning
+https://github.com/SL1M3K1NG101/GTuner/blob/main/Coding%20For%20Arduino
+
+ Bass Coding
+https://github.com/SL1M3K1NG101/GTuner/blob/main/Bass%20Chages
