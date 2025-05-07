@@ -3,7 +3,7 @@
 This is a simple homemade guitar tuner anyone can make, taking the input from an audio cable, transmitting it into an Arduino Uno and giving you the note you've played and how sharp/flat the note is.
 
 ## Status:
-System still needs to be wired up irl for testing.
+Missing Complete Interface
 
 ## Bill of Materials:
 [Bill of Materials](https://github.com/SL1M3K1NG101/GTuner/blob/main/Bill%20of%20Materials)
