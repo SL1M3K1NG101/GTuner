@@ -1,4 +1,5 @@
 # Guitar Tuner
+# All Credit for wiring and original coding goes to Nikoala3 on Instructables.com
 ## Description:
 This is a simple homemade guitar tuner anyone can make, taking the input from an audio cable, transmitting it into an Arduino Uno and giving you the note you've played and how sharp/flat the note is.
 
